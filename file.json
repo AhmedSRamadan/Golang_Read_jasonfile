@@ -1,0 +1,8 @@
+{
+        "elements": [
+                { "user": "one", "color": "red" },
+                { "user": "two", "color": "blue" },
+                { "user": "three", "color": "blue" },
+                { "user": "samename", "color": "blue"}
+        ]
+}
